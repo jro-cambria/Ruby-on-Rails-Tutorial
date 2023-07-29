@@ -1,6 +1,8 @@
 # README
 
-##  versions &  dependencies
+## Overview
+
+## Dependencies
 
 ## Configuration
 
